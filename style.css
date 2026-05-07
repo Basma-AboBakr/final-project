@@ -299,7 +299,7 @@ flex-wrap: wrap;
     .top-menue {
         flex-direction: column;
         gap: 30px;
-        width: 550px;
+        width: 100%;
     }
 
     .contain {
